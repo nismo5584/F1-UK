@@ -6,3 +6,6 @@ http://213.136.90.30:8000/live/sk3/sk3/14205.ts
 
 #EXTINF:-1,UK.SkySports.F1HD
 http://213.136.90.30:8000/live/sk3/sk3/13944.ts
+
+#EXTINF:0,UK: Sky Sports F1 UK jaqta
+http://62.210.102.248:8000/live/phill/phill/550.ts
