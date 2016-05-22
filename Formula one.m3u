@@ -9,3 +9,20 @@ http://213.136.90.30:8000/live/sk3/sk3/13944.ts
 
 #EXTINF:0,UK: Sky Sports F1 UK jaqta
 http://62.210.102.248:8000/live/phill/phill/550.ts
+
+#EXTINF:-1,IT: SKY_SPORT_MOTO_GP_HD
+http://ORBIT-IPTV.COM:2500/live/3030/3030/2529.ts
+
+#EXTINF:-1,ES: MOVISTAR_F1
+http://ORBIT-IPTV.COM:2500/live/3030/3030/3102.ts
+
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://ORBIT-IPTV.COM:2500/live/3030/3030/2969.ts
+
+#EXTINF:-1,UK: Sky Sports F1
+http://ORBIT-IPTV.COM:2500/live/3030/3030/819.ts
+
+#EXTINF:-1,UK: F1
+http://ORBIT-IPTV.COM:2500/live/3030/3030/2171.ts
+
+
